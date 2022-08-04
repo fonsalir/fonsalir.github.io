@@ -1,5 +1,6 @@
 body{
-    background: url(D:/GitHub/fonsalir.github.io/background.jpg) repeat;
+    background: url(https://fonsalir.github.io/background.jpg) repeat;
+    background-size:cover ;
 }
 
 p{
